@@ -32,7 +32,7 @@ import SearchCard from './components/SearchCard.vue'
 }
 
 .title {
-  font-size: 24px;
+  font-size: 40px;
   font-weight: 800;
   text-align: center;
   margin-bottom: 10px;

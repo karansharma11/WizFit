@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+### How to Clone the Repository
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+1. **Open your terminal**.
+2. **Run the following command to clone the repository**:
+   git clone https://github.com/karansharma11/WizFit.git
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+3. **Navigate into the project directory**
+   cd WizFit
+
+4. **Install the required dependencies:**
+   npm install
+
+5. **Start the local development server:**
+   npm run dev
+
+6. **open on browser**
+   application will start running on http://localhost:5173/ open this URL on browser.
